@@ -1,8 +1,3 @@
-# ==============================
-# Create README.md file
-# ==============================
-
-readme_content = """
 # Physical Medicine & Rehabilitation Dataset - EDA & Preprocessing
 
 ## **Project Overview**
